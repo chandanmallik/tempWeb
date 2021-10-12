@@ -1,0 +1,16 @@
+html,body{
+    margin: 0;
+    height: 100%;
+}
+.top{
+    background-color: bisque;
+    height: 100%;
+}
+.middle{
+    height: 100%;
+    background-color: rgb(83, 50, 10);
+}
+.bottom{
+    height: 100%;
+    background-color: rgb(41, 37, 32);
+}
